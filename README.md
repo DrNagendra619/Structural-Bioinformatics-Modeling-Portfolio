@@ -1,4 +1,4 @@
-# 👨‍🔬 Structural Bioinformatics & Molecular Modeling Portfolio
+## 👨‍🔬 Structural Bioinformatics & Molecular Modeling Portfolio
 
 > This repository serves as a **unified professional portfolio** consolidating **19 distinct projects** that demonstrate advanced skills in Structural Biology, Molecular Modeling, and Systems Analysis. The collection showcases my ability to apply computational techniques to complex protein function, drug design, and translational data interpretation.
 
